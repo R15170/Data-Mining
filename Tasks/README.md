@@ -1,20 +1,9 @@
-# Foundations of Data Mining
+# Tasks
 
-This repository contains my work from the Foundations of Data Mining practical course at university.
+This folder contains the practical task descriptions and documentation for the Foundations of Data Mining course.
 
-The project focuses on fundamental concepts and techniques used in Data Mining and Machine Learning. The practical work includes implementing and applying different algorithms to datasets and analysing their results.
+The tasks cover different fundamental concepts of Data Mining, including data analysis, preprocessing, classification, clustering, similarity measures, and evaluation of algorithms.
 
-## Main Topics
+The documents contain the requirements and explanations for the different practical exercises completed during the course.
 
-* Data Mining fundamentals
-* Data preprocessing
-* Data analysis
-* Classification
-* Clustering
-* Similarity and distance measures
-* Machine Learning algorithms
-* Model evaluation
-* Analysis and interpretation of results
-
-The repository contains the practical task documents as well as the implementations and results developed during the course.
 
